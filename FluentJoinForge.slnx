@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="src/FluentJoinForge/FluentJoinForge.csproj" />
+  <Project Path="tests/FluentJoinForge.Enumerable.Tests/FluentJoinForge.Enumerable.Tests.csproj" />
+  <Project Path="tests/FluentJoinForge.Queryable.Tests/FluentJoinForge.Queryable.Tests.csproj" />
+</Solution>
